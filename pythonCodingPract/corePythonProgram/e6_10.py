@@ -16,5 +16,5 @@ for subC in subS:
             resS += subC.lower()
     else:
         resS += subC
-        
+
 print resS
